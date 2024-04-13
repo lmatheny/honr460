@@ -23,7 +23,7 @@ label {
 }
 
 input[type="text"] {
-    width: 100%;
+    width: 95%;
     padding: 10px;
     font-size: 16px;
     border: 1px solid #ccc;
@@ -36,14 +36,14 @@ button[type="submit"] {
     padding: 10px;
     font-size: 16px;
     color: #fff;
-    background-color: #007bff;
+    background-color: #77C3EC;
     border: none;
     border-radius: 5px;
     cursor: pointer;
 }
 
 button[type="submit"]:hover {
-    background-color: #0056b3;
+    background-color: blue;
 }
 
 
